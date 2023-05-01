@@ -1,0 +1,488 @@
+{
+    "personajes" : [
+        {
+            "name" : "Kamisato Ayaka",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6003.webp"
+        },
+        {
+            "name" : "Jean",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6004.webp"
+        },
+        {
+            "name" : "Traveler",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Multi",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6005.webp"
+        },
+        {
+            "name" : "Lisa",
+            "rarity" : "4",
+            "weapon" : "Catalyst",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6006.webp"
+        },
+        {
+            "name" : "Traveler",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Multi",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6007.webp"
+        },
+        {
+            "name" : "Barbara",
+            "rarity" : "4",
+            "weapon" : "Catalyst",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6008.webp"
+        },
+        {
+            "name" : "Kaeya",
+            "rarity" : "4",
+            "weapon" : "Sword",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6009.webp"
+        },
+        {
+            "name" : "Diluc",
+            "rarity" : "5",
+            "weapon" : "Claymore",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6010.webp"
+        },
+        {
+            "name" : "Razor",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6001.webp"
+        },
+        {
+            "name" : "Amber",
+            "rarity" : "4",
+            "weapon" : "Bow",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6011.webp"
+        },
+        {
+            "name" : "Venti",
+            "rarity" : "5",
+            "weapon" : "Bow",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6012.webp"
+        },
+        {
+            "name" : "Xiangling",
+            "rarity" : "4",
+            "weapon" : "Polearm",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6013.webp"
+        },
+        {
+            "name" : "Beidou",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6014.webp"
+        },
+        {
+            "name" : "Xingqiu",
+            "rarity" : "4",
+            "weapon" : "Sword",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6015.webp"
+        },
+        {
+            "name" : "Xiao",
+            "rarity" : "5",
+            "weapon" : "Polearm",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6016.webp"
+        },
+        {
+            "name" : "Ningguang",
+            "rarity" : "4",
+            "weapon" : "Catalyst",
+            "element" : "Geo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6017.webp"
+        },
+        {
+            "name" : "Klee",
+            "rarity" : "5",
+            "weapon" : "Catalyst",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6018.webp"
+        },
+        {
+            "name" : "Zhongli",
+            "rarity" : "5",
+            "weapon" : "Polearm",
+            "element" : "Geo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6019.webp"
+        },
+        {
+            "name" : "Fischl",
+            "rarity" : "4",
+            "weapon" : "Bow",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6020.webp"
+        },
+        {
+            "name" : "Bennett",
+            "rarity" : "4",
+            "weapon" : "Sword",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6021.webp"
+        },
+        {
+            "name" : "Tartaglia",
+            "rarity" : "5",
+            "weapon" : "Bow",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6022.webp"
+        },
+        {
+            "name" : "Noelle",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Geo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6023.webp"
+        },
+        {
+            "name" : "Qiqi",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6024.webp"
+        },
+        {
+            "name" : "Chongyun",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6025.webp"
+        },
+        {
+            "name" : "Ganyu",
+            "rarity" : "5",
+            "weapon" : "Bow",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6026.webp"
+        },
+        {
+            "name" : "Albedo",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Geo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6027.webp"
+        },
+        {
+            "name" : "Diona",
+            "rarity" : "4",
+            "weapon" : "Bow",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6028.webp"
+        },
+        {
+            "name" : "Mona",
+            "rarity" : "5",
+            "weapon" : "Catalyst",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6029.webp"
+        },
+        {
+            "name" : "Keqing",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6030.webp"
+        },
+        {
+            "name" : "Sucrose",
+            "rarity" : "4",
+            "weapon" : "Catalyst",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6031.webp"
+        },
+        {
+            "name" : "Xinyan",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6032.webp"
+        },
+        {
+            "name" : "Rosaria",
+            "rarity" : "4",
+            "weapon" : "Polearm",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6033.webp"
+        },
+        {
+            "name" : "Hu Tao",
+            "rarity" : "5",
+            "weapon" : "Polearm",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6034.webp"
+        },
+        {
+            "name" : "Kaedehara Kazuha",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6037.webp"
+        },
+        {
+            "name" : "Yanfei",
+            "rarity" : "4",
+            "weapon" : "Catalyst",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6035.webp"
+        },
+        {
+            "name" : "Yoimiya",
+            "rarity" : "5",
+            "weapon" : "Bow",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6038.webp"
+        },
+        {
+            "name" : "Thoma",
+            "rarity" : "4",
+            "weapon" : "Polearm",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6044.webp"
+        },
+        {
+            "name" : "Eula",
+            "rarity" : "5",
+            "weapon" : "Claymore",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6036.webp"
+        },
+        {
+            "name" : "Raiden Shogun",
+            "rarity" : "5",
+            "weapon" : "Polearm",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6040.webp"
+        },
+        {
+            "name" : "Sayu",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6039.webp"
+        },
+        {
+            "name" : "Sangonomiya Kokomi",
+            "rarity" : "5",
+            "weapon" : "Catalyst",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6041.webp"
+        },
+        {
+            "name" : "Gorou",
+            "rarity" : "4",
+            "weapon" : "Bow",
+            "element" : "Geo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6045.webp"
+        },
+        {
+            "name" : "Kujou Sara",
+            "rarity" : "4",
+            "weapon" : "Bow",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6042.webp"
+        },
+        {
+            "name" : "Arataki Itto",
+            "rarity" : "5",
+            "weapon" : "Claymore",
+            "element" : "Geo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6046.webp"
+        },
+        {
+            "name" : "Yae Miko",
+            "rarity" : "5",
+            "weapon" : "Catalyst",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6049.webp"
+        },
+        {
+            "name" : "Shikanoin Heizou",
+            "rarity" : "4",
+            "weapon" : "Catalyst",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1059.webp"
+        },
+        {
+            "name" : "Yelan",
+            "rarity" : "5",
+            "weapon" : "Bow",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6052.webp"
+        },
+        {
+            "name" : "Kirara",
+            "rarity" : "4",
+            "weapon" : "Sword",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1061.webp"
+        },
+        {
+            "name" : "Aloy",
+            "rarity" : "5",
+            "weapon" : "Bow",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6043.webp"
+        },
+        {
+            "name" : "Shenhe",
+            "rarity" : "5",
+            "weapon" : "Polearm",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6047.webp"
+        },
+        {
+            "name" : "Yun Jin",
+            "rarity" : "4",
+            "weapon" : "Polearm",
+            "element" : "Geo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6048.webp"
+        },
+        {
+            "name" : "Kuki Shinobu",
+            "rarity" : "4",
+            "weapon" : "Sword",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6051.webp"
+        },
+        {
+            "name" : "Kamisato Ayato",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_6050.webp"
+        },
+        {
+            "name" : "Collei",
+            "rarity" : "4",
+            "weapon" : "Bow",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1067.webp"
+        },
+        {
+            "name" : "Dori",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1068.webp"
+        },
+        {
+            "name" : "Tighnari",
+            "rarity" : "5",
+            "weapon" : "Bow",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1069.webp"
+        },
+        {
+            "name" : "Nilou",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1070.webp"
+        },
+        {
+            "name" : "Cyno",
+            "rarity" : "5",
+            "weapon" : "Polearm",
+            "element" : "Electro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1071.webp"
+        },
+        {
+            "name" : "Candace",
+            "rarity" : "4",
+            "weapon" : "Polearm",
+            "element" : "Hydro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1072.webp"
+        },
+        {
+            "name" : "Nahida",
+            "rarity" : "5",
+            "weapon" : "Catalyst",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1073.webp"
+        },
+        {
+            "name" : "Layla",
+            "rarity" : "4",
+            "weapon" : "Sword",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1074.webp"
+        },
+        {
+            "name" : "Wanderer",
+            "rarity" : "5",
+            "weapon" : "Catalyst",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1075.webp"
+        },
+        {
+            "name" : "Faruzan",
+            "rarity" : "4",
+            "weapon" : "Bow",
+            "element" : "Anemo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1076.webp"
+        },
+        {
+            "name" : "Yaoyao",
+            "rarity" : "4",
+            "weapon" : "Polearm",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1077.webp"
+        },
+        {
+            "name" : "Alhaitham",
+            "rarity" : "5",
+            "weapon" : "Sword",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1078.webp"
+        },
+        {
+            "name" : "Dehya",
+            "rarity" : "5",
+            "weapon" : "Claymore",
+            "element" : "Pyro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1079.webp"
+        },
+        {
+            "name" : "Mika",
+            "rarity" : "4",
+            "weapon" : "Polearm",
+            "element" : "Cryo",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1080.webp"
+        },
+        {
+            "name" : "Kaveh",
+            "rarity" : "4",
+            "weapon" : "Claymore",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1081.webp"
+        },
+        {
+            "name" : "Baizhu",
+            "rarity" : "5",
+            "weapon" : "Catalyst",
+            "element" : "Dendro",
+            "icon" : "https://genshin.honeyhunterworld.com/img/i_n1082.webp"
+        }
+    ]
+}
+
