@@ -472,6 +472,7 @@ body{
         /*left: 0;*/
         flex: 1 1 auto;
         transition: 0.5s ease;
+        height: 100%;
     }
         .navIzq{
             background-color: #3E4556;
@@ -533,7 +534,7 @@ body{
     .latDer{
         background-color: #EBE3D6;
         /*width: 75vw;*/
-        min-height: 100%;
+        min-height: 100vh;
         /*position: absolute;*/
         /*right: 0;*/
         /*padding-top: 50px;*/
